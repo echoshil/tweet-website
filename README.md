@@ -19,22 +19,6 @@ Bisa start/pause/resume bot, mengatur interval per akun, mengupload/generate kom
 
 ---
 
-## 📂 Struktur Project
-   .
-├── bot.py
-├── controller.py
-├── state.py
-├── account_settings.json
-├── requirements.txt
-├── Procfile
-├── templates/
-│   └── index.html
-├── static/
-│   └── style.css
-└── .gitignore
-
----
-
 ## 🔧 Instalasi Lokal
 1. Clone repo:
    ```bash
@@ -62,7 +46,7 @@ Bisa start/pause/resume bot, mengatur interval per akun, mengupload/generate kom
    ```bash
     uvicorn controller:app --reload
 
-6. Buka di browser:
+5. Buka di browser:
    ```bash
    http://127.0.0.1:8000
 
