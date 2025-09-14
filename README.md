@@ -20,6 +20,7 @@ Bisa start/pause/resume bot, mengatur interval per akun, mengupload/generate kom
 ---
 
 ## 📂 Struktur Project
+   .
 ├── bot.py
 ├── controller.py
 ├── state.py
@@ -27,11 +28,10 @@ Bisa start/pause/resume bot, mengatur interval per akun, mengupload/generate kom
 ├── requirements.txt
 ├── Procfile
 ├── templates/
-│ └── index.html
+│   └── index.html
 ├── static/
-│ └── style.css
+│   └── style.css
 └── .gitignore
-
 
 ---
 
@@ -41,12 +41,14 @@ Bisa start/pause/resume bot, mengatur interval per akun, mengupload/generate kom
    git clone https://github.com/echoshil/tweet-website.git
    cd tweet-website
 2. Buat virtual env & install dependencies:
+   ```bash
     python -m venv venv
     source venv/bin/activate   # Linux/Mac
     venv\Scripts\activate      # Windows
     pip install -r requirements.txt
 
 3. Buat file .env dan isi dengan token Twitter API kamu:
+   ```bash
     NUM_ACCOUNTS=6
     REPLY_INTERVAL=10
     MAX_COMMENTS=20
@@ -57,28 +59,26 @@ Bisa start/pause/resume bot, mengatur interval per akun, mengupload/generate kom
     ACCESS_TOKEN_SECRET_1=xxxx
 
 4. Jalankan server:
+   ```bash
     uvicorn controller:app --reload
 
-5. Buka di browser:
-http://127.0.0.1:8000
+6. Buka di browser:
+   ```bash
+   http://127.0.0.1:8000
 
 🌐 Deploy ke Railway
 
 Push project ke GitHub (pastikan .env tidak di-commit).
 
-Tambahkan file Procfile dengan isi:
+1. Tambahkan file Procfile dengan isi:
+   ```bash
+   web: uvicorn controller:app --host 0.0.0.0 --port $PORT
 
-web: uvicorn controller:app --host 0.0.0.0 --port $PORT
+2. Deploy ke Railway:
+- Login ke railway.app → New Project → Deploy from GitHub Repo.
+- Tambahkan environment variables (isi dari .env) di Railway dashboard → Variables.
 
-
-Deploy ke Railway:
-
-Login ke railway.app
- → New Project → Deploy from GitHub Repo.
-
-Tambahkan environment variables (isi dari .env) di Railway dashboard → Variables.
-
-Railway akan memberi URL publik, misal:
-
-https://mybot.up.railway.app
+3. Railway akan memberi URL publik, misal:
+   ```bash
+   https://mybot.up.railway.app
 
