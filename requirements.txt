@@ -4,3 +4,4 @@ tweepy
 python-dotenv
 requests
 jinja2
+python-multipart
