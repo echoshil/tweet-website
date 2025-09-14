@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="utf-8" />
+    <title>Twitter Auto Comment</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="/static/style.css" />
+  </head>
+  <body>
+    <!-- HEADER -->
+    <header class="topbar">
+      <!-- Hamburger (mobile only) -->
+      <button id="menuToggle" class="btn ghost menu-btn" aria-label="Buka menu">☰</button>
+
+      <!-- Semua isi header -->
+      <nav id="menuItems" class="menu-items" aria-label="Kontrol dan info">
+        <div class="brand">
+          <img src="/static/logo.png" alt="Logo" class="logo" onerror="this.style.display='none'" />
+          <span class="brand-text">Twitter Auto Comment By Ikiw</span>
+        </div>
+
+        <div class="status">Status: <span id="statusBadge" class="badge">{{ status }}</span></div>
+        <div class="stats">Total Komentar: <span id="totalComments">0</span></div>
+
+        <form action="/start" method="post"><button class="btn success" type="submit">Start</button></form>
+        <form action="/pause" method="post"><button class="btn warn" type="submit">Pause</button></form>
+        <form action="/resume" method="post"><button class="btn info" type="submit">Resume</button></form>
+        <form action="/stop" method="post"><button class="btn danger" type="submit">Stop</button></form>
+
+        <button id="themeToggle" class="btn ghost" type="button" aria-label="Toggle theme">🌙/☀️</button>
+      </nav>
+    </header>
+
+    <!-- MAIN -->
+    <main class="container">
+      <section class="grid">
+        {% for acc in accounts %}
+        <article class="card" data-acc="{{ acc.id }}">
+          <div class="card-head">
+            <h3>Akun #{{ acc.id }}</h3>
+            <span class="meta">{{ acc.comments_left }} comments left</span>
+          </div>
+
+          <!-- Progress -->
+          <div class="progress">
+            <div class="progress-fill" style="width: {{ ((acc.max_comments - acc.comments_left) / acc.max_comments * 100) | round(0) }}%"></div>
+          </div>
+
+          <!-- Tweet ID -->
+          <div class="row">
+            <form action="/update_tweet/{{ acc.id }}" method="post" class="form-inline">
+              <label>Tweet Target (ID)</label>
+              <input name="tweet_id" placeholder="contoh: 1234567890" value="{{ acc.tweet_id }}" required />
+              <button class="btn info" type="submit">Simpan</button>
+            </form>
+          </div>
+
+          <!-- Settings -->
+          <div class="row">
+            <form action="/update_account_settings/{{ acc.id }}" method="post" class="form-inline">
+              <label>Interval (detik)</label>
+              <input name="interval" type="number" min="1" value="{{ acc.interval }}" required />
+              <label>Max/akun</label>
+              <input name="max_comments" type="number" min="1" value="{{ acc.max_comments }}" required />
+              <button class="btn success" type="submit">Update</button>
+            </form>
+          </div>
+
+          <!-- Tokens -->
+          <details class="details">
+            <summary><strong>Tokens (.env)</strong></summary>
+            <form action="/update_tokens/{{ acc.id }}" method="post" class="form-vertical">
+              <label>CONSUMER_KEY_{{ acc.id }}</label>
+              <input name="consumer_key" placeholder="{{ acc.tokens.CONSUMER_KEY }}" />
+              <label>CONSUMER_SECRET_{{ acc.id }}</label>
+              <input name="consumer_secret" placeholder="{{ acc.tokens.CONSUMER_SECRET }}" />
+              <label>ACCESS_TOKEN_{{ acc.id }}</label>
+              <input name="access_token" placeholder="{{ acc.tokens.ACCESS_TOKEN }}" />
+              <label>ACCESS_TOKEN_SECRET_{{ acc.id }}</label>
+              <input name="access_token_secret" placeholder="{{ acc.tokens.ACCESS_TOKEN_SECRET }}" />
+              <div class="actions">
+                <button class="btn info" type="submit">Simpan Tokens</button>
+                <form action="/reset_tokens/{{ acc.id }}" method="post" style="margin:0">
+                  <button class="btn danger ghost" type="submit">Reset Tokens</button>
+                </form>
+              </div>
+            </form>
+          </details>
+
+          <!-- Comments -->
+          <details class="details">
+            <summary><strong>Comments</strong></summary>
+
+            <div class="row">
+              <form action="/upload_comments/{{ acc.id }}" method="post" enctype="multipart/form-data" class="form-inline">
+                <label>Upload .txt</label>
+                <input type="file" name="file" accept=".txt" required />
+                <button class="btn" type="submit">Upload</button>
+              </form>
+            </div>
+
+            <div class="row">
+              <form action="/generate_comments/{{ acc.id }}" method="post" class="form-inline">
+                <label>Generate</label>
+                <input name="base_text" placeholder="Teks dasar" required />
+                <label>Total</label>
+                <input name="total" type="number" min="1" value="10" required />
+                <label>Mode</label>
+                <select name="mode">
+                  <option value="overwrite">Overwrite</option>
+                  <option value="append">Append</option>
+                </select>
+                <button class="btn success" type="submit">Buat</button>
+              </form>
+            </div>
+
+            <div class="preview">
+              <div class="preview-head">Preview comments</div>
+              {% if acc.preview and acc.preview|length > 0 %}
+              <ul class="mono preview-list">
+                {% for p in acc.preview %}
+                <li>{{ p }}</li>
+                {% endfor %}
+              </ul>
+              {% else %}
+              <div class="muted">Belum ada komentar</div>
+              {% endif %}
+            </div>
+          </details>
+        </article>
+        {% endfor %}
+      </section>
+
+      <!-- Logs -->
+      <section class="logs">
+        <div class="logs-head">
+          <h3>Activity Logs</h3>
+          <form action="/clear_logs" method="post">
+            <button class="btn danger ghost" type="submit">Clear Logs</button>
+          </form>
+        </div>
+        <div id="logBox" class="logbox" role="log" aria-live="polite">
+          {% for line in logs %}
+          <div class="logline">{{ line }}</div>
+          {% endfor %}
+        </div>
+      </section>
+    </main>
+
+    <div id="toast" class="toast" hidden></div>
+
+    <!-- SCRIPT -->
+    <script>
+      const statusBadge = document.getElementById('statusBadge');
+      const logBox = document.getElementById('logBox');
+      const toast = document.getElementById('toast');
+      const totalComments = document.getElementById('totalComments');
+      const themeToggle = document.getElementById('themeToggle');
+      const menuToggle = document.getElementById('menuToggle');
+      const menuItems = document.getElementById('menuItems');
+
+      function setBadge(text) {
+        statusBadge.textContent = text;
+        statusBadge.className = "badge";
+        if (text === 'Running') statusBadge.classList.add('ok');
+        else if (text === 'Paused') statusBadge.classList.add('paused');
+        else statusBadge.classList.add('stopped');
+      }
+
+      function showToast(msg) {
+        toast.textContent = msg;
+        toast.hidden = false;
+        toast.classList.add('show');
+        setTimeout(()=> { toast.classList.remove('show'); toast.hidden = true; }, 2500);
+      }
+
+      function appendLogs(newLines) {
+        for (const line of newLines) {
+          const div = document.createElement('div');
+          div.className = 'logline new';
+          div.textContent = line;
+          if (line.includes('✅')) div.classList.add('good');
+          if (line.includes('❌') || line.includes('🚫') || line.includes('🛑')) div.classList.add('bad');
+          logBox.appendChild(div);
+
+          if (line.includes('✅ Account')) {
+            let current = parseInt(totalComments.textContent, 10) || 0;
+            totalComments.textContent = current + 1;
+            showToast('Komentar terkirim');
+          }
+          setTimeout(()=>div.classList.remove('new'), 1500);
+        }
+        logBox.scrollTop = logBox.scrollHeight;
+      }
+
+      // Theme
+      function applyTheme(isLight) {
+        if (isLight) {
+          document.body.classList.add('light');
+          localStorage.setItem('theme', 'light');
+        } else {
+          document.body.classList.remove('light');
+          localStorage.setItem('theme', 'dark');
+        }
+      }
+      if (localStorage.getItem('theme') === 'light') applyTheme(true);
+      themeToggle.addEventListener('click', () => {
+        const isLight = !document.body.classList.contains('light');
+        applyTheme(isLight);
+        if (window.innerWidth <= 768) menuItems.classList.remove('show');
+      });
+
+      // Mobile menu
+      menuToggle.addEventListener('click', (e) => {
+        e.stopPropagation();
+        menuItems.classList.toggle('show');
+      });
+      document.addEventListener('click', (e) => {
+        if (window.innerWidth <= 768 && !menuItems.contains(e.target) && !menuToggle.contains(e.target)) {
+          menuItems.classList.remove('show');
+        }
+      });
+
+      // WebSocket
+      (function connectWS() {
+        try {
+          const proto = location.protocol === 'https:' ? 'wss' : 'ws';
+          const ws = new WebSocket(`${proto}://${location.host}/ws`);
+          ws.onmessage = (ev) => {
+            try {
+              const data = JSON.parse(ev.data);
+              setBadge(data.status || 'Stopped');
+              if (Array.isArray(data.accounts)) {
+                data.accounts.forEach(acc => {
+                  const card = document.querySelector(`.card[data-acc="${acc.id}"]`);
+                  if (card) {
+                    const meta = card.querySelector('.meta');
+                    meta.textContent = `${acc.comments_left} comments left`;
+                    const fill = card.querySelector('.progress-fill');
+                    if (fill) {
+                      const pct = Math.round(((acc.max_comments - acc.comments_left) / Math.max(1, acc.max_comments)) * 100);
+                      fill.style.width = pct + '%';
+                    }
+                  }
+                });
+              }
+              const current = document.querySelectorAll('#logBox .logline').length;
+              if (Array.isArray(data.logs) && data.logs.length > current) {
+                appendLogs(data.logs.slice(current));
+              }
+            } catch (e) {}
+          };
+          ws.onclose = () => setTimeout(connectWS, 2000);
+        } catch (e) {}
+      })();
+    </script>
+  </body>
+</html>

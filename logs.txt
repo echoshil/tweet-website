@@ -1,0 +1,412 @@
+✅ Account 2 commented (1/20): di Lazada 9.9 Mega Brand Sale aku mau iPhone 15 @xslerf_ @matjegers @jokokkendils 40
+⚠️ Account 3 network error: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /2/tweets (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:997)'))) (retry 1/3)
+✅ Account 3 commented (1/20): di Lazada 9.9 Mega Brand Sale aku mau iPhone 15 @puddypuddydy @xslerf_ @matjegers ,,,,, 38
+✅ Account 4 commented (1/20): di Lazada 9.9 Mega Brand Sale aku mau iPhone 15 @cryptoid97  @xslerf_ @tenhaag_11 gass 38
+✅ Account 5 commented (1/20): di Lazada 9.9 Mega Brand Sale aku mau iPhone 15 ... @jajangmarjuki  @puddypuddydy  @jokokkendils 38
+⚠️ Account 6 network error: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /2/tweets (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:997)'))) (retry 1/3)
+✅ Account 6 commented (1/20): di Lazada 9.9 Mega Brand Sale aku mau iPhone 15 .... @airdropshunt_ @matjegers @xslerf_ 37
+⚠️ Account 1 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+⚠️ Account 1 network error: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /2/tweets (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:997)'))) (retry 2/3)
+✅ Account 1 commented (2/20): di Lazada 9.9 Mega Brand Sale aku mau iPhone 15 @cryptoid97_ @musedprotocol @puddypuddydy 41
+⛔ Bot stopped
+🚀 Bot started
+✅ Account 1 commented (1/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 1
+✅ Account 2 commented (1/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 1
+✅ Account 3 commented (1/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 1
+✅ Account 4 commented (1/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 1
+✅ Account 5 commented (1/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 1
+✅ Account 6 commented (1/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 1
+⚠️ Account 1 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 1 commented (2/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 2
+⚠️ Account 2 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 2 commented (2/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 2
+⚠️ Account 3 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 3 commented (2/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 2
+⚠️ Account 4 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 4 commented (2/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 2
+⚠️ Account 5 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 5 commented (2/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 2
+⚠️ Account 6 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 6 commented (2/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 2
+⚠️ Account 1 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 1 commented (3/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 3
+⚠️ Account 2 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 2 commented (3/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 3
+⚠️ Account 3 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 3 commented (3/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 3
+⚠️ Account 4 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 4 commented (3/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 3
+⚠️ Account 5 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 5 commented (3/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 3
+⚠️ Account 6 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 6 commented (3/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 3
+⚠️ Account 1 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 1 commented (4/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 4
+⚠️ Account 2 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 2 commented (4/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 4
+⚠️ Account 3 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 3 commented (4/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 4
+⚠️ Account 4 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 4 commented (4/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 4
+⚠️ Account 5 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 5 commented (4/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 4
+⚠️ Account 6 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 6 commented (4/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 4
+⚠️ Account 1 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 1 commented (5/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 5
+⚠️ Account 2 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 2 commented (5/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 5
+⚠️ Account 3 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 3 commented (5/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 5
+⚠️ Account 4 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 4 commented (5/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 5
+⚠️ Account 5 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 5 commented (5/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 5
+⚠️ Account 6 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 6 commented (5/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 5
+⚠️ Account 1 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 1 commented (6/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 6
+⚠️ Account 2 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 2 commented (6/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 6
+⚠️ Account 3 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 3 commented (6/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 6
+⚠️ Account 4 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 4 commented (6/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 6
+⚠️ Account 5 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 5 commented (6/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 6
+⚠️ Account 6 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 6 commented (6/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 6
+✅ Account 1 commented (7/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 7
+⚠️ Account 2 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 2 commented (7/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 7
+⚠️ Account 3 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 3 commented (7/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 7
+⚠️ Account 4 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 4 commented (7/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 7
+⚠️ Account 5 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 5 commented (7/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 7
+⚠️ Account 6 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 6 commented (7/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 7
+⚠️ Account 1 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 1 commented (8/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 8
+⚠️ Account 2 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 2 commented (8/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 8
+⚠️ Account 3 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 3 commented (8/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 8
+⚠️ Account 4 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 4 commented (8/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 8
+⚠️ Account 5 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 5 commented (8/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 8
+⚠️ Account 6 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 6 commented (8/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 8
+⚠️ Account 1 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 1 commented (9/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 9
+⚠️ Account 2 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 2 commented (9/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 9
+⚠️ Account 3 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 3 commented (9/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 9
+⚠️ Account 4 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 4 commented (9/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 9
+⚠️ Account 5 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 5 commented (9/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 9
+⚠️ Account 6 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 6 commented (9/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 9
+⚠️ Account 1 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 1 commented (10/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 10
+⚠️ Account 2 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 2 commented (10/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 10
+⚠️ Account 3 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 3 commented (10/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 10
+⚠️ Account 4 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 4 commented (10/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 10
+⚠️ Account 5 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 5 commented (10/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 10
+⚠️ Account 6 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 6 commented (10/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 10
+⚠️ Account 1 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 1 commented (11/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 11
+⚠️ Account 2 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 2 commented (11/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 11
+⚠️ Account 3 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 3 commented (11/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 11
+⚠️ Account 4 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 4 commented (11/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 11
+⚠️ Account 5 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 5 commented (11/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 11
+⚠️ Account 6 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 6 commented (11/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 11
+⚠️ Account 1 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 1 commented (12/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 12
+⚠️ Account 2 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 2 commented (12/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 12
+⚠️ Account 3 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 3 commented (12/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 12
+⚠️ Account 4 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 4 commented (12/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 12
+⚠️ Account 5 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 5 commented (12/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 12
+⚠️ Account 6 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 6 commented (12/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 12
+⚠️ Account 1 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 1 commented (13/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 13
+⚠️ Account 2 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 2 commented (13/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 13
+⚠️ Account 3 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 3 commented (13/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 13
+⚠️ Account 4 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 4 commented (13/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 13
+⚠️ Account 5 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 5 commented (13/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 13
+⚠️ Account 6 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 6 commented (13/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 13
+⚠️ Account 1 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 1 commented (14/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 14
+⚠️ Account 2 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 2 commented (14/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 14
+⚠️ Account 3 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 3 commented (14/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 14
+⚠️ Account 4 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 4 commented (14/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 14
+⚠️ Account 5 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 5 commented (14/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 14
+⚠️ Account 6 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 6 commented (14/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 14
+⚠️ Account 1 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 1 commented (15/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 15
+⚠️ Account 2 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 2 commented (15/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 15
+⚠️ Account 3 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 3 commented (15/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 15
+⚠️ Account 4 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 4 commented (15/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 15
+⚠️ Account 5 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 5 commented (15/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 15
+⚠️ Account 6 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 6 commented (15/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 15
+⚠️ Account 1 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 1 commented (16/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 16
+⚠️ Account 2 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 2 commented (16/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 16
+⚠️ Account 3 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 3 commented (16/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 16
+⚠️ Account 4 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 4 commented (16/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 16
+⚠️ Account 5 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 5 commented (16/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 16
+⚠️ Account 6 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 6 commented (16/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 16
+⚠️ Account 1 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 1 commented (17/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 17
+⚠️ Account 2 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 2 commented (17/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 17
+⚠️ Account 3 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 3 commented (17/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 17
+⚠️ Account 4 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 4 commented (17/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 17
+⚠️ Account 5 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 5 commented (17/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 17
+⚠️ Account 6 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 6 commented (17/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 17
+⛔ Bot stopped
+🚀 Bot started
+✅ Account 1 commented (1/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 18
+✅ Account 2 commented (1/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 18
+✅ Account 3 commented (1/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 18
+✅ Account 4 commented (1/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 18
+✅ Account 5 commented (1/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 18
+✅ Account 6 commented (1/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 18
+⚠️ Account 1 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 1 commented (2/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 19
+⚠️ Account 2 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 2 commented (2/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 19
+⚠️ Account 3 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 3 commented (2/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 19
+⚠️ Account 4 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 4 commented (2/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 19
+⚠️ Account 5 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 5 commented (2/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 19
+⚠️ Account 6 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 6 commented (2/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 19
+⚠️ Account 1 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 1 commented (3/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 20
+⚠️ Account 2 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 2 commented (3/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 20
+⚠️ Account 3 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 3 commented (3/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 20
+⚠️ Account 4 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 4 commented (3/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 20
+⚠️ Account 5 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 5 commented (3/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 20
+⚠️ Account 6 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 6 commented (3/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 20
+⚠️ Account 1 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 1 commented (4/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 21
+⚠️ Account 2 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 2 commented (4/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 21
+⚠️ Account 3 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 3 commented (4/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 21
+⚠️ Account 4 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 4 commented (4/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 21
+⚠️ Account 5 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 5 commented (4/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 21
+⚠️ Account 6 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 6 commented (4/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 21
+⚠️ Account 1 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 1 commented (5/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 22
+⚠️ Account 2 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 2 commented (5/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 22
+⚠️ Account 3 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 3 commented (5/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 22
+⚠️ Account 4 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 4 commented (5/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 22
+⚠️ Account 5 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 5 commented (5/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 22
+⚠️ Account 6 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 6 commented (5/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 22
+⚠️ Account 1 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+⚠️ Account 1 network error: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /2/tweets (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:997)'))) (retry 2/3)
+✅ Account 1 commented (6/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 23
+⚠️ Account 2 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 2 commented (6/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 23
+⚠️ Account 3 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+⚠️ Account 3 network error: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /2/tweets (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:997)'))) (retry 2/3)
+✅ Account 3 commented (6/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 23
+⚠️ Account 4 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 4 commented (6/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 23
+⚠️ Account 5 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 5 commented (6/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 23
+⚠️ Account 6 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 6 commented (6/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 23
+⚠️ Account 1 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 1 commented (7/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 24
+⚠️ Account 2 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 2 commented (7/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 24
+⚠️ Account 3 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 3 commented (7/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 24
+⚠️ Account 4 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 4 commented (7/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 24
+⚠️ Account 5 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 5 commented (7/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 24
+⚠️ Account 6 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 6 commented (7/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 24
+⚠️ Account 1 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 1 commented (8/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 25
+⚠️ Account 2 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 2 commented (8/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 25
+⚠️ Account 3 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 3 commented (8/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 25
+⚠️ Account 4 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 4 commented (8/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 25
+⚠️ Account 5 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 5 commented (8/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 25
+⚠️ Account 6 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 6 commented (8/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 25
+⚠️ Account 1 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 1 commented (9/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 26
+⚠️ Account 2 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 2 commented (9/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 26
+⚠️ Account 3 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 3 commented (9/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 26
+⚠️ Account 4 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 4 commented (9/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 26
+⚠️ Account 5 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 5 commented (9/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 26
+⚠️ Account 6 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 6 commented (9/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 26
+⚠️ Account 1 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 1 commented (10/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 27
+⚠️ Account 2 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 2 commented (10/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 27
+⚠️ Account 3 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 3 commented (10/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 27
+⚠️ Account 4 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 4 commented (10/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 27
+⚠️ Account 5 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 5 commented (10/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 27
+⚠️ Account 6 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 6 commented (10/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 27
+⚠️ Account 1 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 1 commented (11/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 28
+⚠️ Account 2 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 2 commented (11/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 28
+⚠️ Account 3 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 3 commented (11/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 28
+⚠️ Account 4 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 4 commented (11/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 28
+⚠️ Account 5 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 5 commented (11/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 28
+⚠️ Account 6 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 6 commented (11/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 28
+⚠️ Account 1 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 1 commented (12/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 29
+⚠️ Account 2 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 2 commented (12/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 29
+⚠️ Account 3 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 3 commented (12/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 29
+⚠️ Account 4 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 4 commented (12/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 29
+⚠️ Account 5 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 5 commented (12/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 29
+⚠️ Account 6 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 6 commented (12/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 29
+⚠️ Account 1 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 1 commented (13/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 30
+⚠️ Account 2 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 2 commented (13/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 30
+⚠️ Account 3 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 3 commented (13/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 30
+⚠️ Account 4 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 4 commented (13/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 30
+⚠️ Account 5 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 5 commented (13/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 30
+⚠️ Account 6 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 6 commented (13/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 30
+⚠️ Account 1 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 1 commented (14/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 31
+⚠️ Account 2 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 2 commented (14/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 31
+⚠️ Account 3 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 3 commented (14/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 31
+⚠️ Account 4 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 4 commented (14/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 31
+⚠️ Account 5 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 5 commented (14/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 31
+⚠️ Account 6 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 6 commented (14/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 31
+⚠️ Account 1 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 1 commented (15/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 32
+⚠️ Account 2 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 2 commented (15/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 32
+⚠️ Account 3 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 3 commented (15/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 32
+⚠️ Account 4 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 4 commented (15/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 32
+⚠️ Account 5 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 5 commented (15/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 32
+⚠️ Account 6 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 6 commented (15/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 32
+⚠️ Account 1 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 1 commented (16/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 33
+⚠️ Account 2 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 2 commented (16/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 33
+⚠️ Account 3 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 3 commented (16/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 33
+⚠️ Account 4 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 4 commented (16/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 33
+⚠️ Account 5 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 5 commented (16/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 33
+⚠️ Account 6 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 6 commented (16/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 33
+⚠️ Account 1 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 1 commented (17/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 34
+⚠️ Account 2 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 2 commented (17/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 34
+⚠️ Account 3 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 3 commented (17/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 34
+⚠️ Account 4 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 4 commented (17/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 34
+⚠️ Account 5 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 5 commented (17/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 34
+⚠️ Account 6 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)
+✅ Account 6 commented (17/20): Biar makin produktif di kondisi apapun, harus punya #GalaxyZFold7 yang punya IP48 Water & Dust resistance #GalaxyZFold7xShopee 34
+⚠️ Account 1 network error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')) (retry 1/3)

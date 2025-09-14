@@ -1,0 +1,26 @@
+{
+  "1": {
+    "interval": 28,
+    "max_comments": 20
+  },
+  "2": {
+    "interval": 29,
+    "max_comments": 20
+  },
+  "3": {
+    "interval": 27,
+    "max_comments": 20
+  },
+  "4": {
+    "interval": 30,
+    "max_comments": 20
+  },
+  "5": {
+    "interval": 23,
+    "max_comments": 20
+  },
+  "6": {
+    "interval": 23,
+    "max_comments": 20
+  }
+}
