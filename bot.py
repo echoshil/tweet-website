@@ -8,13 +8,13 @@ import json
 import requests
 
 # -------------------------------------------------------------------
-# NOTE: Mengirim komentar otomatis bisa melanggar kebijakan platform.
-# Pastikan Anda mematuhi Terms of Service & rate limit Twitter/X.
+# ⚠️ WARNING: Auto comment bisa dianggap spam oleh Twitter/X.
+# Gunakan dengan hati-hati, patuhi Terms of Service & rate limit.
 # -------------------------------------------------------------------
 
 load_dotenv()
 
-# Siapkan 6 akun dari .env
+# ====== Inisialisasi Akun ======
 accounts: List[Tuple[int, tweepy.Client]] = []
 for i in range(1, 7):
     ck = os.getenv(f"CONSUMER_KEY_{i}")
@@ -31,9 +31,11 @@ for i in range(1, 7):
                 wait_on_rate_limit=True
             )
             accounts.append((i, client))
+            print(f"✅ Akun {i} siap dipakai")
         except Exception as e:
             print(f"❌ Gagal inisialisasi akun {i}: {e}")
 
+# ====== Logging ======
 def log_message(msg: str):
     print(msg, flush=True)
     try:
@@ -42,6 +44,7 @@ def log_message(msg: str):
     except Exception:
         pass
 
+# ====== Helpers ======
 def load_comments(account_id: int):
     try:
         with open(f"comments_{account_id}.txt", "r", encoding="utf-8") as f:
@@ -69,6 +72,7 @@ def load_account_settings() -> Dict[str, Dict]:
     except Exception:
         return {}
 
+# ====== Main Bot ======
 async def main():
     state.bot_running = True
     log_message("🚀 Bot started")
@@ -82,17 +86,15 @@ async def main():
 
         settings = load_account_settings()
 
-        # Loop akun
         for acc_id, client in accounts:
             if not state.bot_running:
                 break
 
             acc_settings = settings.get(str(acc_id), {})
-            interval = int(acc_settings.get("interval", 15))
+            interval = max(60, int(acc_settings.get("interval", 60)))  # minimal 60 detik
             max_comments = int(acc_settings.get("max_comments", 20))
             processed_counts.setdefault(acc_id, 0)
 
-            # Cek limit
             if processed_counts[acc_id] >= max_comments:
                 log_message(f"⏱️ Account {acc_id}: limit {max_comments} tercapai")
                 continue
@@ -107,12 +109,10 @@ async def main():
                 log_message(f"⚠️ Account {acc_id}: Tidak ada komentar di file")
                 continue
 
-            # Ambil komentar pertama
             comment = comments.pop(0)
 
-            # Coba kirim dengan retry
             success = False
-            for attempt in range(3):  # maksimal 3 kali coba
+            for attempt in range(3):
                 try:
                     client.create_tweet(text=comment, in_reply_to_tweet_id=tweet_id)
                     processed_counts[acc_id] += 1
@@ -125,14 +125,15 @@ async def main():
                     log_message(f"🛑 Account {acc_id} Forbidden: {e}")
                     break
                 except tweepy.TooManyRequests as e:
-                    log_message(f"⏳ Account {acc_id} rate-limited: {e}")
-                    time.sleep(15)  # tunggu 15 detik lalu coba lagi
+                    # Rate limit → tunggu 15 menit penuh
+                    log_message(f"⏳ Account {acc_id} rate-limited: tidur 15 menit ({e})")
+                    time.sleep(15 * 60)
                 except tweepy.Unauthorized as e:
                     log_message(f"🔑 Account {acc_id} unauthorized: {e}")
                     break
                 except requests.exceptions.RequestException as e:
                     log_message(f"⚠️ Account {acc_id} network error: {e} (retry {attempt+1}/3)")
-                    time.sleep(5)
+                    time.sleep(10)
                 except Exception as e:
                     err = str(e).lower()
                     if "suspend" in err:
@@ -141,10 +142,9 @@ async def main():
                         log_message(f"❌ Account {acc_id} error: {e}")
                     break
 
-            # Simpan sisa komentar
             save_comments(acc_id, comments)
 
-            # ⏳ Delay antar akun (supaya tidak nembak bersamaan)
+            # Delay antar akun
             time.sleep(5)
 
             # Tunggu sesuai interval sebelum akun ini komentar lagi
